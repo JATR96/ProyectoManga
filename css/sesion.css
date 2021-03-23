@@ -16,10 +16,11 @@ body #formularioInicioSesion{
     box-shadow: 7px 13px 37px #000;
 }
 
-form label {
-    width: 100px;
-    font-weight: bold;
-    display: inline-block;
+form h2 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 10px;
 }
 
 body form input{
